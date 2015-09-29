@@ -1,0 +1,94 @@
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\obj\x86\Debug\Interop.SHDocVw.dll
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).csproj.ResolveComReference.cache
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Properties.Resources.resources
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Sigfree.resources
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).exe
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).pdb
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\bin\Debug\Interop.SHDocVw.dll
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).exe
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).pdb
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Inject_instr.resources
+E:\jitu\aftr crash\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).exe.config
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).exe.config
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\Interop.SHDocVw.dll
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).csproj.ResolveComReference.cache
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).exe
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).pdb
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).exe
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).pdb
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\bin\Debug\Interop.SHDocVw.dll
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Properties.Resources.resources
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Sigfree.resources
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\jitu\aftr crash\sigfree(demo)(50 per all include n have lbl's)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Dispaly_Data.resources
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).exe.config
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\Interop.SHDocVw.dll
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).csproj.ResolveComReference.cache
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).exe
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).pdb
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).exe
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).pdb
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\bin\Debug\Interop.SHDocVw.dll
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Dispaly_Data.resources
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Properties.Resources.resources
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Sigfree.resources
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\jitu\aftr crash\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).exe.config
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\Interop.SHDocVw.dll
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).csproj.ResolveComReference.cache
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).exe
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).pdb
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).exe
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).pdb
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\bin\Debug\Interop.SHDocVw.dll
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Dispaly_Data.resources
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Properties.Resources.resources
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Sigfree.resources
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\jitu\multicast\sigfree\sigfree(demo)(50 per with DB)\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).exe.config
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\Interop.SHDocVw.dll
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).csproj.ResolveComReference.cache
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).exe
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Dispaly_Data.resources
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Properties.Resources.resources
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Sigfree.resources
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).exe
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).pdb
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\bin\Debug\Interop.SHDocVw.dll
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).pdb
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Inject_instr.resources
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Login.resources
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.NewUser.resources
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.SigfreeMDI.resources
+E:\jitu\aftr crash\sigfree(demo)(50 with DB)1Phases Completed\sigfree(demo)(50 with DB)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.BlockedForm.resources
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).exe.config
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\Interop.SHDocVw.dll
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).csproj.ResolveComReference.cache
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).exe
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree(demo).pdb
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).exe
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\bin\Debug\sigfree(demo).pdb
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\bin\Debug\Interop.SHDocVw.dll
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.BlockedForm.resources
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.SigfreeMDI.resources
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Dispaly_Data.resources
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Inject_instr.resources
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Login.resources
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.NewUser.resources
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Properties.Resources.resources
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\sigfree_demo_.Sigfree.resources
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\jitu\aftr crash\sigfree(demo)21 March Complete\sigfree(demo)\sigfree(demo)\sigfree(demo)\obj\x86\Debug\GenerateResource.write.1.tlog
